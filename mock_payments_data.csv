@@ -1,0 +1,1001 @@
+TransactionID,UserID,Date,Amount(USD),Payment Method,Country,Status,Fraud Risk (%)
+1001,595,2024-02-07,2709.26,Credit Card,Guadeloupe,Completed,35.1
+1002,685,2024-12-05,2218.57,Bank Transfer,Russian Federation,Refunded,20.07
+1003,1191,2024-05-20,4186.18,PayPal,Guinea-Bissau,Failed,61.63
+1004,561,2024-05-16,1668.7,Credit Card,Antarctica (the territory South of 60 deg S),Refunded,10.96
+1005,902,2024-07-12,2295.12,Crypto,Bosnia and Herzegovina,Refunded,78.31
+1006,1122,2024-10-07,2309.86,PayPal,Haiti,Pending,65.43
+1007,501,2024-12-28,4075.55,PayPal,Moldova,Pending,57.28
+1008,1250,2024-10-12,1998.03,PayPal,Turks and Caicos Islands,Pending,21.23
+1009,639,2024-11-23,3236.28,Bank Transfer,Reunion,Completed,32.83
+1010,658,2024-06-04,4924.5,PayPal,Lao People's Democratic Republic,Failed,65.13
+1011,694,2024-02-08,1705.53,Credit Card,Colombia,Pending,22.09
+1012,627,2024-05-14,1754.14,Credit Card,Anguilla,Failed,53.66
+1013,502,2024-03-13,2397.32,Crypto,Tokelau,Refunded,22.93
+1014,1411,2025-01-14,4331.21,PayPal,Mozambique,Failed,86.18
+1015,1274,2024-06-29,4378.15,Credit Card,Slovenia,Pending,0.07
+1016,1328,2024-04-03,4800.1,PayPal,France,Refunded,13.02
+1017,1107,2024-06-28,1105.66,PayPal,Rwanda,Pending,30.69
+1018,1179,2024-08-22,2168.46,Bank Transfer,Aruba,Pending,41.92
+1019,1429,2024-11-19,4240.51,Bank Transfer,Aruba,Completed,48.74
+1020,1034,2024-12-21,3819.89,Bank Transfer,Ghana,Completed,53.11
+1021,1113,2024-12-05,3983.99,Credit Card,Bangladesh,Failed,29.08
+1022,1241,2025-01-13,1415.27,Crypto,Ghana,Failed,80.97
+1023,683,2024-02-21,4746.71,Crypto,Equatorial Guinea,Pending,66.98
+1024,1128,2024-05-06,1885.85,Crypto,France,Pending,40.93
+1025,834,2024-02-11,1380.72,Bank Transfer,Uruguay,Pending,82.69
+1026,1154,2024-09-04,3587.31,Credit Card,South Africa,Pending,61.94
+1027,1245,2025-01-13,2188.11,PayPal,Honduras,Completed,87.01
+1028,1293,2024-04-04,3619.76,Credit Card,Singapore,Completed,50.65
+1029,695,2024-02-06,4387.0,PayPal,Macao,Refunded,0.11
+1030,528,2024-07-16,476.18,Bank Transfer,Lebanon,Refunded,25.03
+1031,1211,2024-03-01,1500.69,Bank Transfer,Trinidad and Tobago,Refunded,40.8
+1032,1453,2024-03-13,3452.55,Credit Card,Falkland Islands (Malvinas),Completed,66.64
+1033,597,2024-08-07,2565.24,Credit Card,Cambodia,Pending,36.89
+1034,1078,2024-08-31,931.66,Crypto,Belize,Refunded,10.75
+1035,603,2024-03-08,3628.97,PayPal,Wallis and Futuna,Completed,80.58
+1036,793,2024-08-10,4168.03,Bank Transfer,Vanuatu,Pending,17.33
+1037,535,2024-03-06,2605.31,PayPal,Palau,Refunded,73.91
+1038,871,2024-05-27,2327.67,Bank Transfer,Paraguay,Refunded,22.39
+1039,534,2024-09-28,4196.67,Crypto,Jamaica,Failed,43.86
+1040,528,2024-09-02,4859.08,Bank Transfer,United States Virgin Islands,Refunded,32.79
+1041,775,2024-02-27,3715.8,Crypto,Cyprus,Failed,99.08
+1042,1361,2024-09-10,2905.81,Crypto,Antigua and Barbuda,Pending,80.16
+1043,1249,2024-12-01,4136.3,Credit Card,Venezuela,Refunded,76.02
+1044,720,2024-10-28,3500.23,PayPal,Czech Republic,Completed,80.05
+1045,934,2024-10-07,2532.33,PayPal,Tajikistan,Pending,18.36
+1046,550,2024-07-19,3369.71,Crypto,Syrian Arab Republic,Completed,96.97
+1047,1167,2024-08-17,1182.67,Bank Transfer,Turkey,Refunded,46.94
+1048,1261,2024-02-27,2152.14,Bank Transfer,Philippines,Refunded,65.33
+1049,818,2025-01-06,1700.72,Bank Transfer,Cambodia,Refunded,8.72
+1050,917,2024-12-22,751.86,Crypto,Croatia,Completed,67.25
+1051,1340,2025-01-14,3219.26,Crypto,Cocos (Keeling) Islands,Pending,53.59
+1052,664,2024-10-13,1929.9,Crypto,Eritrea,Pending,21.48
+1053,793,2024-05-22,4730.01,Credit Card,Nicaragua,Pending,79.59
+1054,633,2024-06-10,4700.95,PayPal,Poland,Refunded,67.27
+1055,790,2024-10-27,2304.14,PayPal,Turkmenistan,Failed,94.55
+1056,1027,2024-11-25,626.82,PayPal,Grenada,Failed,72.0
+1057,709,2024-03-11,2399.16,PayPal,Dominican Republic,Completed,43.98
+1058,1220,2024-09-14,1514.23,PayPal,Benin,Failed,35.97
+1059,649,2025-01-19,2899.24,Credit Card,Bouvet Island (Bouvetoya),Refunded,26.46
+1060,521,2024-02-23,2201.98,Credit Card,Cambodia,Completed,0.9
+1061,1250,2024-09-13,3348.39,Bank Transfer,Costa Rica,Completed,85.36
+1062,1413,2024-04-03,4075.17,Credit Card,Saint Martin,Refunded,58.77
+1063,1324,2024-12-23,1898.07,Bank Transfer,Jersey,Failed,24.19
+1064,995,2024-04-05,4139.0,Crypto,Algeria,Failed,38.98
+1065,618,2024-06-27,1215.29,Bank Transfer,Liberia,Pending,80.62
+1066,1439,2024-11-16,1952.14,Crypto,Mexico,Failed,31.34
+1067,896,2024-11-18,3626.48,PayPal,Haiti,Failed,93.5
+1068,1316,2024-09-28,2005.14,Crypto,Japan,Completed,57.48
+1069,1495,2024-11-12,1786.71,Bank Transfer,Puerto Rico,Failed,38.59
+1070,1394,2024-07-09,4149.04,Crypto,Cambodia,Pending,27.59
+1071,1025,2024-06-12,1646.89,Crypto,United States Minor Outlying Islands,Pending,10.45
+1072,527,2024-12-31,4772.54,Credit Card,Chad,Completed,55.62
+1073,638,2024-06-05,502.85,Bank Transfer,Zambia,Pending,98.5
+1074,692,2024-12-22,1953.56,PayPal,Bermuda,Pending,58.77
+1075,1251,2024-04-05,773.39,Credit Card,Western Sahara,Completed,96.04
+1076,770,2024-11-25,170.88,Credit Card,Belarus,Completed,82.13
+1077,1069,2024-02-13,4420.34,PayPal,United States Minor Outlying Islands,Failed,20.48
+1078,1061,2024-02-10,50.72,PayPal,Romania,Failed,63.2
+1079,1049,2024-09-05,634.49,Credit Card,Cape Verde,Failed,13.07
+1080,1466,2025-01-22,3230.28,PayPal,Uzbekistan,Failed,10.28
+1081,727,2024-03-06,147.52,Bank Transfer,Cyprus,Completed,16.29
+1082,1246,2024-10-07,4064.04,Crypto,Kyrgyz Republic,Failed,79.03
+1083,1431,2024-08-11,1105.0,PayPal,Bouvet Island (Bouvetoya),Failed,66.05
+1084,1187,2024-10-24,2195.43,Credit Card,Indonesia,Completed,39.84
+1085,989,2024-09-12,607.74,Crypto,Madagascar,Refunded,83.38
+1086,868,2024-02-29,3896.49,Credit Card,Greenland,Completed,24.74
+1087,883,2024-09-21,3436.26,PayPal,Colombia,Refunded,29.31
+1088,1215,2025-01-09,4966.44,Credit Card,Northern Mariana Islands,Refunded,36.74
+1089,1313,2024-08-15,2900.15,Crypto,Greece,Pending,26.54
+1090,1133,2024-10-27,2581.82,PayPal,Holy See (Vatican City State),Completed,22.73
+1091,1349,2024-12-19,1424.13,Credit Card,Cote d'Ivoire,Completed,64.26
+1092,1265,2024-03-21,3098.52,Bank Transfer,Tokelau,Completed,94.69
+1093,766,2024-02-23,4098.56,Crypto,American Samoa,Failed,89.31
+1094,848,2024-12-27,3009.29,Crypto,San Marino,Refunded,45.02
+1095,1482,2025-01-31,3599.75,Crypto,Afghanistan,Pending,17.58
+1096,1188,2024-02-22,3474.12,PayPal,Grenada,Failed,59.44
+1097,649,2024-07-17,2865.51,PayPal,Gibraltar,Pending,13.15
+1098,540,2025-01-22,4084.79,Bank Transfer,Italy,Pending,96.23
+1099,537,2024-02-13,4549.4,PayPal,Cocos (Keeling) Islands,Pending,93.41
+1100,1371,2024-07-24,2840.71,Crypto,Central African Republic,Failed,6.16
+1101,583,2024-09-18,90.39,Bank Transfer,Albania,Pending,19.36
+1102,1001,2024-09-07,3763.01,Credit Card,Eritrea,Completed,46.65
+1103,1152,2024-08-10,2004.88,Bank Transfer,Isle of Man,Pending,28.2
+1104,656,2024-03-11,1514.75,Crypto,Russian Federation,Failed,60.16
+1105,1444,2024-07-24,3872.73,Credit Card,Denmark,Pending,78.57
+1106,614,2024-11-10,3568.4,Bank Transfer,Nepal,Completed,11.89
+1107,961,2024-04-11,2436.86,Crypto,Algeria,Completed,92.59
+1108,777,2024-05-27,1035.99,Bank Transfer,Iceland,Refunded,34.41
+1109,1141,2024-12-23,1684.59,Bank Transfer,Ukraine,Refunded,5.05
+1110,1476,2024-10-14,1697.08,Bank Transfer,Sri Lanka,Refunded,80.33
+1111,652,2024-06-30,4567.89,Credit Card,Barbados,Completed,79.22
+1112,944,2024-11-26,1021.49,PayPal,British Indian Ocean Territory (Chagos Archipelago),Refunded,22.25
+1113,796,2024-04-08,1009.02,Bank Transfer,Uruguay,Pending,72.29
+1114,1459,2024-05-29,1085.35,PayPal,Montserrat,Completed,71.11
+1115,1345,2024-03-08,3610.83,Bank Transfer,Russian Federation,Completed,99.17
+1116,1333,2025-01-30,2590.51,Credit Card,Serbia,Pending,27.14
+1117,853,2024-02-04,3734.44,Bank Transfer,Bolivia,Completed,7.4
+1118,1233,2025-02-01,2471.7,Credit Card,Turkmenistan,Pending,56.07
+1119,1189,2025-01-13,4977.88,Credit Card,Cuba,Pending,75.05
+1120,1025,2024-08-13,387.56,PayPal,Barbados,Failed,55.86
+1121,516,2024-11-03,920.53,PayPal,Russian Federation,Failed,63.17
+1122,1301,2024-08-31,133.48,Crypto,Brunei Darussalam,Pending,68.39
+1123,1228,2024-06-17,1310.72,Bank Transfer,Palestinian Territory,Refunded,42.38
+1124,1268,2024-09-15,3656.96,Crypto,Equatorial Guinea,Failed,20.67
+1125,980,2024-03-17,1760.16,PayPal,Spain,Pending,45.08
+1126,764,2024-08-24,3592.73,Bank Transfer,Papua New Guinea,Pending,8.29
+1127,552,2024-04-01,1269.37,Bank Transfer,Portugal,Refunded,87.03
+1128,1002,2024-05-26,2623.18,Bank Transfer,British Indian Ocean Territory (Chagos Archipelago),Failed,34.61
+1129,1439,2024-10-18,2834.35,PayPal,Indonesia,Pending,95.35
+1130,895,2024-10-24,2379.41,Bank Transfer,Mauritius,Pending,73.55
+1131,764,2024-11-25,4808.87,PayPal,Bhutan,Failed,66.16
+1132,1499,2024-12-07,4383.1,Crypto,British Indian Ocean Territory (Chagos Archipelago),Completed,68.44
+1133,878,2024-04-12,2434.78,Crypto,Malawi,Completed,1.73
+1134,874,2024-06-19,1933.62,Crypto,Estonia,Completed,60.44
+1135,1220,2024-11-28,910.67,Crypto,Micronesia,Pending,7.79
+1136,1054,2024-03-12,3077.5,Crypto,Burundi,Completed,34.71
+1137,1007,2024-05-26,4123.57,Bank Transfer,Oman,Completed,39.17
+1138,1326,2024-04-14,3755.73,PayPal,Guinea-Bissau,Failed,25.75
+1139,580,2024-06-03,909.54,Bank Transfer,Lithuania,Pending,11.74
+1140,752,2024-09-23,1634.49,Bank Transfer,Switzerland,Completed,4.99
+1141,1430,2024-07-16,3143.0,Bank Transfer,South Georgia and the South Sandwich Islands,Pending,93.78
+1142,1340,2024-05-13,4565.31,Crypto,Brazil,Completed,26.66
+1143,1046,2024-08-31,1918.44,Bank Transfer,Greece,Refunded,30.89
+1144,1000,2024-12-16,2340.94,Crypto,Tunisia,Pending,45.33
+1145,908,2024-11-29,3608.51,Credit Card,Kuwait,Pending,29.67
+1146,533,2024-03-30,2669.32,Credit Card,Armenia,Completed,26.6
+1147,1102,2024-12-10,3636.18,Crypto,Cote d'Ivoire,Refunded,1.35
+1148,1180,2024-11-28,863.82,PayPal,Palau,Refunded,57.85
+1149,872,2024-04-25,3604.75,PayPal,Macao,Refunded,31.13
+1150,508,2025-01-17,1039.32,Bank Transfer,Korea,Completed,24.16
+1151,1366,2024-04-07,41.57,Crypto,Gabon,Refunded,60.1
+1152,1192,2024-02-07,4605.42,Credit Card,Ghana,Pending,28.67
+1153,1108,2024-10-17,234.85,PayPal,India,Failed,36.4
+1154,1468,2024-03-27,2663.58,PayPal,Brunei Darussalam,Pending,64.07
+1155,1148,2025-01-07,2823.73,Credit Card,Pakistan,Failed,30.55
+1156,1358,2024-04-19,2672.56,PayPal,Gibraltar,Completed,18.38
+1157,1385,2024-11-29,3562.25,PayPal,Libyan Arab Jamahiriya,Refunded,24.18
+1158,839,2025-01-27,1278.5,Credit Card,Canada,Pending,23.51
+1159,823,2024-08-29,243.23,Crypto,Holy See (Vatican City State),Completed,49.18
+1160,513,2024-04-12,2926.36,Crypto,Mozambique,Pending,43.8
+1161,1421,2024-06-01,2726.63,PayPal,Svalbard & Jan Mayen Islands,Failed,80.79
+1162,1025,2024-09-29,3622.8,Bank Transfer,Timor-Leste,Refunded,41.61
+1163,1085,2024-10-06,3708.64,Crypto,Guatemala,Pending,34.77
+1164,552,2024-03-22,55.44,Crypto,Burundi,Pending,11.58
+1165,701,2024-07-11,1523.71,Crypto,Albania,Pending,93.29
+1166,1120,2024-12-16,1108.82,Bank Transfer,Cyprus,Completed,74.04
+1167,836,2024-06-07,155.18,Credit Card,Guinea,Completed,27.51
+1168,656,2024-06-05,1368.81,Crypto,Ukraine,Failed,96.87
+1169,973,2024-06-13,3226.08,PayPal,Barbados,Refunded,2.15
+1170,814,2024-10-05,1475.51,Crypto,Barbados,Failed,6.78
+1171,997,2024-05-26,3159.43,Crypto,Mauritania,Pending,71.18
+1172,1476,2024-12-07,4697.76,Credit Card,Faroe Islands,Failed,24.89
+1173,936,2024-02-15,733.41,Bank Transfer,United States Virgin Islands,Pending,10.17
+1174,928,2024-06-10,940.28,Credit Card,Vanuatu,Completed,91.25
+1175,711,2024-06-03,2280.67,Bank Transfer,Suriname,Failed,60.78
+1176,1197,2024-04-15,234.47,Bank Transfer,Tokelau,Refunded,81.62
+1177,1349,2024-08-05,4202.28,Crypto,Fiji,Pending,21.67
+1178,519,2024-08-19,1210.82,PayPal,Trinidad and Tobago,Failed,18.37
+1179,623,2024-10-02,350.69,PayPal,Isle of Man,Failed,73.32
+1180,693,2024-09-30,257.62,PayPal,Haiti,Completed,34.79
+1181,807,2024-10-06,4315.39,Bank Transfer,United States Virgin Islands,Refunded,83.32
+1182,530,2024-07-25,4068.28,Crypto,Yemen,Completed,22.11
+1183,1309,2024-09-19,4525.94,Credit Card,Benin,Pending,14.84
+1184,1387,2024-03-20,1845.88,Credit Card,San Marino,Completed,90.08
+1185,692,2024-03-20,22.98,PayPal,Burkina Faso,Refunded,25.26
+1186,1207,2024-05-15,2181.43,Bank Transfer,Gibraltar,Pending,89.36
+1187,661,2024-09-23,4444.29,PayPal,Cape Verde,Completed,24.4
+1188,1195,2024-11-25,2887.98,PayPal,Syrian Arab Republic,Pending,61.29
+1189,818,2024-04-07,4429.55,Bank Transfer,Greece,Refunded,18.35
+1190,1261,2024-12-27,524.62,Crypto,Haiti,Refunded,13.14
+1191,817,2024-03-08,4158.67,Crypto,Costa Rica,Completed,45.14
+1192,761,2025-01-18,2498.78,Bank Transfer,Taiwan,Pending,54.37
+1193,712,2024-07-18,1355.94,Credit Card,Somalia,Failed,84.78
+1194,844,2024-06-09,2357.66,Crypto,Mali,Refunded,25.07
+1195,1132,2024-11-10,2385.76,Credit Card,United States of America,Completed,7.82
+1196,903,2024-05-24,2420.1,PayPal,Nepal,Failed,15.56
+1197,1432,2024-06-12,2605.19,Credit Card,Haiti,Pending,94.93
+1198,1414,2024-12-23,1513.96,Credit Card,Burundi,Failed,2.4
+1199,1096,2024-02-11,271.13,Bank Transfer,Moldova,Refunded,10.36
+1200,558,2025-01-26,1397.06,Bank Transfer,Georgia,Pending,38.64
+1201,1464,2024-11-06,3864.24,Credit Card,Gambia,Failed,54.81
+1202,1398,2024-07-24,460.65,Crypto,Anguilla,Refunded,20.62
+1203,1062,2024-03-09,512.85,Crypto,Christmas Island,Failed,40.61
+1204,1231,2024-07-07,2516.35,Bank Transfer,Russian Federation,Completed,56.53
+1205,960,2024-04-14,1520.08,Bank Transfer,Kuwait,Completed,44.77
+1206,652,2025-01-07,4276.19,Crypto,Togo,Pending,32.44
+1207,1265,2024-12-15,4853.13,Bank Transfer,Togo,Completed,41.52
+1208,902,2024-02-13,2445.34,Credit Card,Angola,Failed,93.92
+1209,803,2024-02-29,1925.72,Crypto,Nepal,Pending,42.71
+1210,877,2024-09-14,4141.37,Credit Card,Tunisia,Failed,70.13
+1211,982,2024-02-25,2288.95,Bank Transfer,Iraq,Pending,33.66
+1212,961,2024-02-04,4775.7,Credit Card,Mozambique,Refunded,41.08
+1213,1021,2024-05-10,2659.75,Crypto,Syrian Arab Republic,Failed,70.28
+1214,1383,2024-03-25,1046.04,Crypto,Gambia,Pending,44.57
+1215,629,2024-05-31,1563.5,PayPal,South Georgia and the South Sandwich Islands,Completed,14.91
+1216,1169,2024-12-01,4240.02,Crypto,Jersey,Failed,30.21
+1217,619,2024-05-12,283.16,Credit Card,Kiribati,Completed,31.19
+1218,1500,2024-08-13,1954.39,PayPal,Lao People's Democratic Republic,Completed,84.86
+1219,900,2024-12-24,1816.01,Credit Card,Finland,Completed,53.47
+1220,798,2024-04-03,779.96,PayPal,Nauru,Completed,41.36
+1221,1480,2024-08-17,3926.94,Crypto,Monaco,Pending,10.8
+1222,1193,2024-02-07,3475.86,Crypto,Cuba,Completed,61.58
+1223,1366,2024-07-09,2735.53,Bank Transfer,Tajikistan,Failed,62.62
+1224,764,2024-04-10,3456.62,Credit Card,Egypt,Pending,7.42
+1225,724,2024-09-18,1239.55,Crypto,Solomon Islands,Refunded,0.12
+1226,1049,2024-11-15,3293.29,PayPal,Thailand,Pending,98.56
+1227,706,2024-04-21,4067.27,Crypto,French Polynesia,Failed,85.2
+1228,665,2025-01-29,832.2,Credit Card,Trinidad and Tobago,Pending,53.54
+1229,1049,2024-08-30,3332.52,Bank Transfer,Ecuador,Refunded,76.51
+1230,502,2024-10-09,4644.77,Bank Transfer,Northern Mariana Islands,Pending,97.92
+1231,1085,2024-04-21,3659.91,PayPal,South Africa,Refunded,25.97
+1232,913,2024-02-14,2073.29,Credit Card,British Indian Ocean Territory (Chagos Archipelago),Refunded,9.35
+1233,699,2024-02-21,1639.66,PayPal,South Africa,Refunded,34.47
+1234,1301,2024-04-30,2459.17,PayPal,Montserrat,Completed,46.36
+1235,843,2025-01-31,4800.26,Credit Card,Lesotho,Completed,52.94
+1236,821,2024-03-01,2831.74,Bank Transfer,Greece,Completed,100.0
+1237,1414,2025-01-17,4532.11,Credit Card,France,Failed,76.07
+1238,1024,2024-10-04,3285.63,Credit Card,Central African Republic,Refunded,8.24
+1239,1143,2025-01-25,4471.29,PayPal,Congo,Completed,54.22
+1240,1074,2024-02-19,704.63,PayPal,Moldova,Completed,96.58
+1241,665,2024-06-05,3623.18,PayPal,Palau,Completed,69.46
+1242,626,2024-05-24,3285.41,Credit Card,Zimbabwe,Refunded,87.06
+1243,1259,2024-07-19,562.63,Credit Card,Marshall Islands,Failed,68.45
+1244,505,2025-01-23,1254.85,PayPal,Ireland,Failed,10.77
+1245,985,2024-11-01,573.47,Crypto,Namibia,Pending,40.7
+1246,598,2024-06-07,4429.96,PayPal,Kyrgyz Republic,Failed,17.99
+1247,1056,2024-06-08,2154.32,Crypto,Jamaica,Failed,35.52
+1248,978,2025-01-08,4923.72,Bank Transfer,Malawi,Completed,38.35
+1249,970,2024-02-21,4993.12,Crypto,Seychelles,Refunded,93.35
+1250,930,2024-05-03,3464.04,Credit Card,Saudi Arabia,Failed,3.34
+1251,788,2025-01-02,2229.69,PayPal,United States Minor Outlying Islands,Refunded,20.5
+1252,754,2024-03-15,4631.15,Bank Transfer,Ireland,Failed,7.24
+1253,1330,2024-12-05,438.04,Bank Transfer,Liechtenstein,Refunded,62.82
+1254,1221,2024-02-11,3253.88,PayPal,Congo,Refunded,77.47
+1255,1373,2024-10-01,3711.37,Crypto,Niue,Failed,73.77
+1256,567,2024-06-14,1388.44,Crypto,Uganda,Pending,26.19
+1257,1385,2024-08-23,2578.84,PayPal,Kuwait,Completed,69.83
+1258,656,2024-12-20,3876.14,Bank Transfer,Uzbekistan,Refunded,92.3
+1259,705,2024-12-22,239.29,Bank Transfer,Dominican Republic,Pending,40.01
+1260,1095,2024-11-27,4721.64,Crypto,Brunei Darussalam,Refunded,17.29
+1261,891,2025-01-15,936.23,Bank Transfer,Azerbaijan,Completed,19.41
+1262,1075,2024-05-12,3201.99,Crypto,Paraguay,Completed,9.59
+1263,864,2024-04-19,3220.05,Crypto,Angola,Failed,50.86
+1264,689,2024-07-28,3843.98,Credit Card,Falkland Islands (Malvinas),Refunded,19.56
+1265,1214,2024-08-15,640.86,Credit Card,Bolivia,Refunded,73.63
+1266,1165,2024-05-04,1571.32,Crypto,Mali,Failed,83.2
+1267,695,2024-04-03,2919.3,PayPal,Macedonia,Failed,36.32
+1268,862,2024-02-06,4486.6,Crypto,China,Failed,53.18
+1269,747,2025-01-07,589.79,Bank Transfer,Svalbard & Jan Mayen Islands,Pending,78.1
+1270,1099,2024-10-21,4869.22,Credit Card,Northern Mariana Islands,Failed,68.91
+1271,1245,2024-02-18,2262.68,Bank Transfer,Guadeloupe,Refunded,36.69
+1272,758,2025-02-02,596.6,PayPal,China,Completed,64.57
+1273,1114,2024-04-16,4696.38,PayPal,Monaco,Failed,15.12
+1274,1349,2025-01-26,664.67,PayPal,Tuvalu,Completed,8.65
+1275,715,2024-02-19,4276.49,PayPal,Tonga,Failed,37.99
+1276,760,2024-02-11,2594.54,Crypto,Andorra,Completed,84.79
+1277,735,2024-10-15,12.33,PayPal,Nicaragua,Pending,51.28
+1278,1403,2024-05-19,4848.34,Crypto,Iraq,Pending,58.45
+1279,883,2024-12-09,821.59,Credit Card,Anguilla,Refunded,10.1
+1280,919,2025-01-25,2729.24,Credit Card,Ireland,Refunded,59.14
+1281,1010,2024-07-12,973.15,Crypto,Guernsey,Pending,78.4
+1282,709,2025-01-12,2736.41,Crypto,Ghana,Refunded,40.9
+1283,1362,2024-11-08,1162.39,Credit Card,Sudan,Completed,60.86
+1284,1446,2024-07-22,4778.03,Credit Card,El Salvador,Failed,23.76
+1285,908,2024-04-16,2547.32,PayPal,Bouvet Island (Bouvetoya),Refunded,73.84
+1286,863,2024-12-17,3191.78,PayPal,French Southern Territories,Failed,56.73
+1287,793,2024-02-28,3038.88,Credit Card,Slovakia (Slovak Republic),Completed,83.79
+1288,537,2024-05-31,2247.86,Bank Transfer,Micronesia,Completed,90.49
+1289,835,2024-08-17,3669.19,PayPal,Cyprus,Pending,53.25
+1290,1431,2024-10-15,1373.78,PayPal,Sierra Leone,Refunded,91.17
+1291,918,2024-11-27,3244.99,Crypto,Samoa,Failed,58.21
+1292,1382,2024-08-16,1357.84,Credit Card,Anguilla,Pending,92.94
+1293,923,2024-10-07,914.95,Credit Card,Israel,Completed,76.74
+1294,1122,2024-12-03,3197.47,Credit Card,Bulgaria,Refunded,4.23
+1295,1353,2024-04-23,4921.14,PayPal,Bahrain,Refunded,74.56
+1296,814,2024-04-16,4223.93,Crypto,French Guiana,Refunded,39.4
+1297,975,2024-05-16,1130.4,PayPal,Bahrain,Pending,18.44
+1298,1298,2024-02-03,3807.97,PayPal,Costa Rica,Failed,92.99
+1299,663,2024-07-29,2803.25,Crypto,Portugal,Completed,90.93
+1300,523,2024-08-19,2661.42,Crypto,Monaco,Refunded,55.51
+1301,1325,2024-07-01,4642.97,Bank Transfer,United States of America,Completed,77.75
+1302,814,2024-10-29,4081.49,Bank Transfer,Holy See (Vatican City State),Pending,27.6
+1303,664,2025-01-16,1991.47,PayPal,Kiribati,Completed,18.2
+1304,1344,2024-03-27,4418.53,Bank Transfer,Sweden,Refunded,64.25
+1305,1493,2024-12-28,2902.51,Credit Card,Niue,Failed,27.81
+1306,855,2024-09-19,420.15,Crypto,Colombia,Completed,29.5
+1307,904,2024-10-07,2111.33,Crypto,Pitcairn Islands,Failed,6.76
+1308,1405,2024-06-21,2371.72,Credit Card,Guadeloupe,Failed,37.87
+1309,855,2024-08-28,4843.86,Crypto,Finland,Completed,2.31
+1310,1279,2024-12-04,1915.32,Crypto,Iraq,Completed,2.76
+1311,738,2024-10-11,1167.28,Bank Transfer,Madagascar,Failed,99.8
+1312,1145,2025-01-20,1143.42,Credit Card,Ireland,Pending,61.04
+1313,1189,2024-09-21,4471.88,Credit Card,Christmas Island,Failed,45.05
+1314,1058,2024-09-06,2695.83,Credit Card,Canada,Completed,79.45
+1315,1353,2024-04-05,3315.54,PayPal,Mayotte,Completed,97.91
+1316,1334,2024-04-23,3615.52,Bank Transfer,Sierra Leone,Refunded,0.35
+1317,903,2024-08-25,3369.6,PayPal,Pitcairn Islands,Failed,8.11
+1318,659,2024-02-28,143.38,Bank Transfer,Saudi Arabia,Completed,51.7
+1319,735,2025-01-05,1697.09,Crypto,Canada,Pending,4.98
+1320,1356,2024-07-30,3534.62,Crypto,Sri Lanka,Pending,20.99
+1321,794,2024-08-09,2622.14,PayPal,United States of America,Completed,38.31
+1322,727,2024-08-22,17.83,Crypto,New Caledonia,Failed,5.07
+1323,1300,2024-03-06,4852.67,Credit Card,Turkmenistan,Completed,50.53
+1324,715,2024-12-18,161.22,Bank Transfer,Vanuatu,Failed,17.43
+1325,875,2024-09-11,1521.25,Crypto,Grenada,Completed,31.49
+1326,1110,2024-02-09,2916.82,Crypto,Poland,Completed,24.55
+1327,691,2024-02-27,577.25,Bank Transfer,Kyrgyz Republic,Completed,57.68
+1328,1296,2024-03-06,4885.68,Credit Card,Chad,Pending,34.35
+1329,682,2024-08-06,3151.25,Credit Card,Denmark,Completed,80.71
+1330,1362,2024-04-30,2498.39,PayPal,Grenada,Completed,94.24
+1331,1283,2024-12-25,1378.73,PayPal,Mongolia,Failed,63.33
+1332,952,2024-10-17,1237.03,Bank Transfer,Japan,Pending,9.66
+1333,681,2024-06-27,4948.12,Crypto,Saint Barthelemy,Refunded,21.19
+1334,1346,2024-04-09,4621.59,PayPal,Kyrgyz Republic,Failed,34.84
+1335,1074,2024-02-04,1158.67,Crypto,Rwanda,Refunded,86.02
+1336,994,2024-08-13,4956.19,Crypto,Albania,Failed,60.64
+1337,785,2024-02-05,1735.47,Crypto,Bangladesh,Refunded,51.14
+1338,1482,2024-12-11,4332.04,PayPal,Saudi Arabia,Completed,14.04
+1339,1079,2024-07-07,1410.38,Credit Card,Jamaica,Failed,84.86
+1340,1153,2024-11-08,1323.95,Credit Card,Turkey,Refunded,72.53
+1341,1011,2024-03-28,2410.48,PayPal,Mauritania,Refunded,51.83
+1342,1116,2024-06-23,2067.5,Credit Card,British Virgin Islands,Refunded,85.9
+1343,775,2024-10-02,3877.53,PayPal,Zambia,Pending,40.12
+1344,1392,2024-08-03,2998.12,PayPal,United Arab Emirates,Pending,95.45
+1345,1048,2024-04-08,4975.84,Bank Transfer,Antarctica (the territory South of 60 deg S),Completed,34.77
+1346,1164,2024-02-07,3353.05,Credit Card,Sudan,Pending,10.23
+1347,948,2024-10-06,1735.05,Bank Transfer,Nepal,Failed,39.3
+1348,1385,2024-09-05,293.46,Crypto,United States Virgin Islands,Pending,71.57
+1349,973,2024-05-28,4629.62,PayPal,Brazil,Completed,25.03
+1350,1234,2024-12-22,910.26,Bank Transfer,Marshall Islands,Refunded,57.23
+1351,1388,2024-10-05,3531.4,Bank Transfer,Kenya,Failed,53.94
+1352,740,2024-07-15,1074.23,Bank Transfer,Guadeloupe,Failed,46.11
+1353,1110,2024-03-11,4517.35,PayPal,Poland,Completed,75.54
+1354,784,2024-06-13,1575.84,Crypto,Micronesia,Failed,69.51
+1355,545,2024-03-11,2714.91,Credit Card,Isle of Man,Completed,67.35
+1356,803,2024-06-26,3303.15,Bank Transfer,Puerto Rico,Pending,74.81
+1357,986,2024-10-25,3991.27,Credit Card,Timor-Leste,Failed,25.37
+1358,748,2024-06-22,4701.3,Bank Transfer,Chad,Failed,10.29
+1359,1140,2024-02-07,4913.13,PayPal,Angola,Pending,27.12
+1360,1059,2024-07-26,2109.53,Crypto,Turks and Caicos Islands,Refunded,69.15
+1361,968,2024-07-08,4803.64,Credit Card,Seychelles,Pending,36.29
+1362,826,2024-08-11,39.07,PayPal,Burundi,Refunded,79.27
+1363,975,2024-05-18,2812.31,PayPal,Saint Martin,Failed,59.08
+1364,880,2024-06-06,3136.06,Credit Card,Honduras,Refunded,12.74
+1365,1316,2024-02-22,2734.39,Bank Transfer,Niue,Refunded,13.59
+1366,959,2024-02-03,3844.87,Credit Card,Luxembourg,Refunded,87.78
+1367,1414,2024-06-10,903.58,Crypto,Qatar,Refunded,69.53
+1368,833,2024-09-24,2352.9,Credit Card,Kyrgyz Republic,Refunded,44.51
+1369,985,2024-02-08,1506.12,Crypto,Argentina,Failed,83.64
+1370,972,2024-10-08,2853.85,Crypto,Trinidad and Tobago,Completed,71.27
+1371,669,2024-04-24,3250.88,Crypto,Holy See (Vatican City State),Pending,23.22
+1372,1206,2024-09-13,591.57,Crypto,Fiji,Pending,53.56
+1373,824,2024-10-31,2597.5,Credit Card,Djibouti,Refunded,65.13
+1374,903,2024-07-27,2782.17,Bank Transfer,South Africa,Pending,15.69
+1375,1119,2024-02-12,332.27,Crypto,Hong Kong,Completed,57.67
+1376,549,2024-10-02,2613.34,Bank Transfer,Kazakhstan,Completed,25.24
+1377,1499,2024-06-18,4830.43,Bank Transfer,Faroe Islands,Completed,51.46
+1378,1139,2024-03-22,4742.49,Crypto,Norfolk Island,Completed,76.95
+1379,1221,2024-11-25,1779.27,Bank Transfer,Malta,Refunded,68.05
+1380,1188,2024-05-20,1395.87,Bank Transfer,Isle of Man,Pending,96.54
+1381,648,2024-05-21,433.94,Bank Transfer,Timor-Leste,Pending,51.18
+1382,677,2024-10-03,986.72,Credit Card,Egypt,Pending,41.46
+1383,1342,2024-08-19,666.18,PayPal,Netherlands Antilles,Refunded,89.94
+1384,1005,2024-05-29,2645.82,Crypto,Panama,Completed,72.1
+1385,1434,2024-12-08,4687.06,Bank Transfer,Taiwan,Failed,40.49
+1386,776,2025-01-25,4356.98,Credit Card,Angola,Completed,34.39
+1387,1025,2024-05-03,3398.37,PayPal,Aruba,Failed,0.73
+1388,980,2024-06-18,976.25,PayPal,Tanzania,Completed,99.47
+1389,592,2024-11-06,2487.7,Credit Card,Georgia,Completed,34.5
+1390,886,2024-03-24,4720.76,Crypto,Kazakhstan,Refunded,70.41
+1391,1467,2024-02-04,1143.66,Credit Card,Liberia,Refunded,27.05
+1392,656,2024-07-29,1616.84,Bank Transfer,Romania,Failed,32.42
+1393,1275,2024-07-25,3696.63,Bank Transfer,Costa Rica,Refunded,81.21
+1394,866,2024-06-10,3067.22,PayPal,Malta,Failed,58.74
+1395,1189,2024-11-18,2966.39,Credit Card,Comoros,Refunded,32.19
+1396,692,2024-04-05,4373.3,Crypto,Turks and Caicos Islands,Refunded,20.84
+1397,1039,2024-03-15,3837.38,Credit Card,Eritrea,Refunded,0.98
+1398,722,2024-04-15,1548.27,Bank Transfer,India,Failed,51.27
+1399,890,2024-02-17,101.29,Bank Transfer,Azerbaijan,Pending,36.37
+1400,1468,2024-08-30,4141.92,Credit Card,Holy See (Vatican City State),Completed,5.69
+1401,559,2024-02-21,3272.14,Bank Transfer,Kyrgyz Republic,Completed,35.0
+1402,626,2024-08-11,3449.61,Bank Transfer,Libyan Arab Jamahiriya,Pending,16.81
+1403,1199,2024-07-27,3969.67,Crypto,Brazil,Failed,39.12
+1404,1300,2024-09-10,2766.38,Crypto,Egypt,Refunded,72.93
+1405,876,2024-04-22,920.27,Crypto,French Polynesia,Refunded,10.05
+1406,616,2024-06-07,3729.51,PayPal,Australia,Completed,89.07
+1407,1206,2024-10-14,2767.59,Crypto,Swaziland,Refunded,89.08
+1408,805,2025-01-05,4890.05,Credit Card,Paraguay,Completed,41.54
+1409,637,2024-05-21,4521.68,PayPal,Bahamas,Pending,12.75
+1410,816,2024-12-04,1894.79,PayPal,Malawi,Completed,5.29
+1411,1193,2024-03-21,4216.7,PayPal,Sri Lanka,Refunded,76.11
+1412,785,2024-10-03,1743.04,Bank Transfer,Djibouti,Refunded,49.61
+1413,1441,2024-10-25,1313.65,PayPal,Cayman Islands,Refunded,98.75
+1414,913,2025-01-11,580.34,PayPal,Namibia,Failed,15.31
+1415,1232,2024-06-12,302.92,Bank Transfer,Lebanon,Pending,93.5
+1416,851,2024-11-24,3408.06,PayPal,Cambodia,Completed,45.49
+1417,1423,2024-05-17,2721.15,Credit Card,Israel,Completed,8.53
+1418,659,2024-05-07,367.69,Credit Card,Zambia,Pending,83.88
+1419,1204,2024-09-11,1465.2,PayPal,Iran,Failed,96.13
+1420,979,2024-02-13,4892.04,PayPal,Cameroon,Failed,61.17
+1421,769,2024-04-04,1325.85,Bank Transfer,Afghanistan,Failed,42.5
+1422,1335,2024-09-13,850.36,Credit Card,South Georgia and the South Sandwich Islands,Completed,88.06
+1423,1019,2024-09-26,1505.56,Crypto,Albania,Refunded,59.69
+1424,780,2024-12-20,3796.97,Crypto,United States Minor Outlying Islands,Failed,27.68
+1425,1205,2024-05-08,1786.21,Credit Card,Egypt,Pending,77.03
+1426,1492,2025-01-22,1373.16,Bank Transfer,Estonia,Failed,66.23
+1427,1376,2024-03-19,955.13,Crypto,Lao People's Democratic Republic,Failed,83.89
+1428,845,2025-01-20,87.68,Bank Transfer,French Southern Territories,Refunded,83.71
+1429,1059,2024-11-25,693.69,Credit Card,Fiji,Failed,21.33
+1430,1093,2025-01-06,995.07,PayPal,Tanzania,Pending,55.81
+1431,595,2024-08-13,4007.67,PayPal,Reunion,Refunded,1.7
+1432,1152,2024-07-17,1935.15,Bank Transfer,Jordan,Pending,17.81
+1433,613,2024-06-01,514.16,Crypto,Greenland,Pending,61.0
+1434,846,2024-10-16,1123.86,Bank Transfer,Poland,Completed,66.51
+1435,781,2025-01-20,3517.03,Bank Transfer,Marshall Islands,Completed,10.08
+1436,554,2024-04-21,2125.3,Credit Card,Algeria,Failed,97.85
+1437,1242,2024-09-02,4432.84,Bank Transfer,Tajikistan,Completed,91.39
+1438,1169,2024-09-18,93.1,PayPal,Cameroon,Failed,87.79
+1439,817,2025-01-30,1691.24,Bank Transfer,Sri Lanka,Pending,14.81
+1440,744,2024-12-17,4736.54,Bank Transfer,Russian Federation,Completed,31.98
+1441,536,2024-09-17,1255.61,Credit Card,Greenland,Completed,96.35
+1442,526,2024-08-07,1285.02,PayPal,Estonia,Failed,26.52
+1443,970,2024-04-29,629.13,Credit Card,Northern Mariana Islands,Pending,90.79
+1444,555,2024-09-07,3558.52,PayPal,Brunei Darussalam,Failed,3.92
+1445,1006,2024-07-31,3861.62,Bank Transfer,Malawi,Completed,13.61
+1446,785,2024-08-17,4141.05,Credit Card,Guinea-Bissau,Failed,62.8
+1447,904,2024-04-08,1420.13,PayPal,Falkland Islands (Malvinas),Pending,74.0
+1448,1251,2024-11-16,1172.22,Credit Card,Dominica,Failed,23.25
+1449,830,2024-09-09,196.73,Credit Card,Senegal,Completed,65.75
+1450,1195,2024-06-10,727.28,PayPal,Pakistan,Completed,67.76
+1451,1303,2024-09-01,2736.7,Bank Transfer,Antigua and Barbuda,Refunded,4.23
+1452,780,2024-05-08,2719.43,Credit Card,Angola,Failed,61.63
+1453,1182,2024-10-28,764.05,Bank Transfer,Israel,Refunded,46.7
+1454,770,2024-06-05,2697.27,Credit Card,Fiji,Pending,27.04
+1455,1166,2024-07-09,552.22,Crypto,Fiji,Completed,29.99
+1456,1117,2024-05-23,4947.98,Credit Card,Suriname,Pending,39.83
+1457,984,2024-11-26,3289.5,Bank Transfer,Switzerland,Completed,13.56
+1458,1276,2025-01-13,1452.19,Crypto,Montenegro,Pending,17.02
+1459,1166,2024-06-15,3157.7,Credit Card,Djibouti,Failed,95.35
+1460,1132,2024-06-22,4689.2,Crypto,Ghana,Completed,92.28
+1461,829,2024-04-24,124.22,PayPal,Tajikistan,Pending,66.42
+1462,615,2024-02-14,3910.9,Crypto,Ukraine,Pending,70.82
+1463,934,2024-07-29,1562.79,PayPal,Lithuania,Completed,26.73
+1464,1153,2024-08-21,4591.33,Credit Card,Guatemala,Completed,81.78
+1465,1020,2024-08-18,1085.93,PayPal,Niue,Pending,37.45
+1466,1112,2024-10-09,4708.04,Crypto,Barbados,Completed,15.11
+1467,1434,2024-03-11,1166.58,Bank Transfer,Burkina Faso,Pending,23.95
+1468,619,2024-11-19,742.56,PayPal,Austria,Refunded,85.65
+1469,1187,2024-04-04,3436.49,Crypto,Palestinian Territory,Completed,96.55
+1470,874,2025-01-06,4162.43,Credit Card,British Virgin Islands,Completed,53.7
+1471,1207,2024-08-08,1957.25,Credit Card,El Salvador,Completed,50.63
+1472,529,2024-06-19,4823.13,Bank Transfer,Congo,Failed,90.3
+1473,974,2024-12-11,4249.29,PayPal,Bangladesh,Pending,34.36
+1474,900,2024-10-30,2215.77,Bank Transfer,Mauritania,Pending,9.61
+1475,1436,2024-04-29,3824.25,Bank Transfer,Belarus,Completed,74.46
+1476,1485,2024-05-17,835.76,Crypto,Czech Republic,Refunded,2.51
+1477,850,2024-04-26,921.83,PayPal,Nigeria,Completed,92.26
+1478,649,2024-04-15,4754.58,Credit Card,Samoa,Failed,56.09
+1479,598,2024-03-06,1982.78,PayPal,Liberia,Pending,43.04
+1480,785,2024-12-24,1883.33,PayPal,India,Failed,7.52
+1481,1356,2024-04-04,4258.13,Bank Transfer,Canada,Completed,62.65
+1482,1210,2024-07-18,4763.62,Crypto,Israel,Failed,22.24
+1483,734,2024-05-05,153.11,Bank Transfer,Angola,Refunded,80.27
+1484,1163,2024-07-12,4004.81,PayPal,Sweden,Completed,38.93
+1485,1344,2024-09-22,450.33,Credit Card,Svalbard & Jan Mayen Islands,Failed,97.28
+1486,1222,2024-12-20,3035.97,Bank Transfer,Tanzania,Completed,29.52
+1487,846,2024-09-23,339.22,Credit Card,Cote d'Ivoire,Pending,77.61
+1488,799,2025-01-28,873.49,Bank Transfer,Saint Vincent and the Grenadines,Refunded,27.02
+1489,643,2024-11-28,4979.07,Credit Card,Andorra,Completed,30.83
+1490,1494,2024-08-29,3747.57,Credit Card,Norway,Refunded,54.22
+1491,1331,2024-03-21,1966.39,Crypto,Central African Republic,Failed,63.59
+1492,1017,2024-03-18,1313.16,PayPal,Isle of Man,Completed,59.73
+1493,882,2024-07-18,2310.14,PayPal,Cameroon,Failed,12.3
+1494,1366,2024-11-28,524.06,Credit Card,Kuwait,Pending,11.89
+1495,1452,2024-04-11,3499.32,PayPal,Pitcairn Islands,Completed,60.81
+1496,1496,2024-03-18,4413.96,Credit Card,Antigua and Barbuda,Failed,34.26
+1497,701,2024-03-01,3867.66,Crypto,Papua New Guinea,Completed,57.14
+1498,1412,2024-09-21,4456.15,Bank Transfer,Indonesia,Refunded,8.63
+1499,1478,2024-04-20,2009.02,Crypto,Austria,Completed,77.13
+1500,643,2024-04-26,2927.51,PayPal,Rwanda,Pending,98.4
+1501,517,2024-02-29,4847.96,PayPal,Venezuela,Refunded,82.78
+1502,568,2024-02-24,929.37,Bank Transfer,Saint Helena,Pending,81.97
+1503,1184,2025-01-24,3735.53,Bank Transfer,Nigeria,Completed,80.82
+1504,716,2024-11-22,3195.88,Crypto,Nauru,Completed,50.58
+1505,758,2024-10-14,2604.52,PayPal,Benin,Refunded,44.19
+1506,621,2024-05-02,718.79,PayPal,South Georgia and the South Sandwich Islands,Refunded,74.79
+1507,683,2024-02-03,4818.94,Bank Transfer,Afghanistan,Completed,19.82
+1508,766,2024-04-20,4510.17,Credit Card,Zambia,Completed,84.33
+1509,927,2024-08-27,3424.15,Bank Transfer,India,Failed,78.82
+1510,996,2024-09-19,3733.27,Crypto,Nicaragua,Completed,40.09
+1511,690,2025-01-01,4689.84,Crypto,Sri Lanka,Failed,63.02
+1512,622,2024-10-24,1965.6,Credit Card,Holy See (Vatican City State),Pending,45.42
+1513,1459,2024-10-09,326.7,Credit Card,British Indian Ocean Territory (Chagos Archipelago),Pending,15.92
+1514,1138,2024-05-06,2057.21,Crypto,French Polynesia,Pending,40.69
+1515,620,2024-06-11,4538.15,Bank Transfer,Tokelau,Refunded,15.91
+1516,1203,2024-07-24,3697.3,Credit Card,Sri Lanka,Refunded,71.04
+1517,899,2024-10-26,2817.44,Crypto,Papua New Guinea,Refunded,53.24
+1518,1133,2024-09-09,3177.32,PayPal,Chile,Failed,42.52
+1519,1033,2024-09-18,4562.89,PayPal,Guinea,Pending,0.56
+1520,1482,2024-07-30,4560.14,Crypto,Mauritius,Pending,26.37
+1521,869,2024-08-18,2454.07,Bank Transfer,United States Virgin Islands,Completed,55.09
+1522,831,2024-12-25,4029.67,Crypto,Netherlands,Completed,35.11
+1523,1166,2024-03-05,4943.13,PayPal,British Virgin Islands,Completed,53.78
+1524,855,2024-03-17,579.56,Bank Transfer,Iraq,Failed,4.78
+1525,1395,2024-09-11,3832.83,PayPal,Guernsey,Failed,9.88
+1526,766,2024-11-05,418.67,Credit Card,French Guiana,Pending,20.16
+1527,707,2024-09-03,1444.02,Credit Card,Argentina,Completed,73.44
+1528,814,2024-02-03,164.89,PayPal,Niue,Completed,66.32
+1529,603,2024-11-18,1797.28,Crypto,Congo,Pending,75.89
+1530,1293,2024-05-09,4510.54,Bank Transfer,Belgium,Pending,2.9
+1531,875,2024-09-11,1257.24,Crypto,Niger,Refunded,70.99
+1532,1475,2024-07-01,2266.16,Credit Card,Greece,Failed,89.49
+1533,1289,2024-12-19,1999.61,Bank Transfer,Greenland,Completed,13.13
+1534,1124,2024-11-30,4399.53,Credit Card,Senegal,Refunded,23.17
+1535,631,2024-07-22,2499.39,Bank Transfer,Isle of Man,Refunded,25.14
+1536,836,2024-10-22,350.06,Crypto,Heard Island and McDonald Islands,Refunded,66.76
+1537,1289,2024-04-06,2781.18,Bank Transfer,Iceland,Failed,6.08
+1538,714,2024-12-19,2390.08,Credit Card,Hungary,Refunded,15.7
+1539,984,2025-01-16,4217.38,Crypto,Wallis and Futuna,Completed,6.92
+1540,725,2025-01-27,4635.05,PayPal,Pitcairn Islands,Pending,7.36
+1541,696,2024-03-17,50.5,PayPal,Portugal,Pending,26.74
+1542,500,2024-03-10,2133.2,Crypto,Montserrat,Failed,47.1
+1543,898,2024-06-29,1757.69,Credit Card,Serbia,Failed,80.53
+1544,1038,2024-02-25,2074.46,Crypto,Romania,Completed,41.83
+1545,822,2024-02-12,1037.2,Credit Card,Korea,Completed,73.7
+1546,755,2025-01-01,3495.66,Bank Transfer,Niue,Completed,61.82
+1547,905,2024-12-17,2647.53,Credit Card,Northern Mariana Islands,Failed,22.95
+1548,1274,2024-12-08,652.9,Bank Transfer,Cook Islands,Failed,28.07
+1549,1292,2024-03-30,3969.76,PayPal,Netherlands Antilles,Refunded,7.9
+1550,954,2024-06-28,1768.53,Crypto,Guyana,Refunded,85.69
+1551,544,2024-02-21,4965.96,Credit Card,Gibraltar,Pending,11.73
+1552,960,2024-03-09,727.14,Credit Card,Jordan,Failed,76.75
+1553,1109,2024-08-07,19.21,Credit Card,Jamaica,Failed,69.21
+1554,1157,2024-12-09,1656.75,Bank Transfer,Isle of Man,Pending,52.86
+1555,852,2024-11-08,2990.15,Bank Transfer,Andorra,Failed,37.34
+1556,503,2024-03-06,2261.95,PayPal,United States Minor Outlying Islands,Refunded,62.35
+1557,542,2024-10-10,45.29,Credit Card,Guadeloupe,Pending,43.76
+1558,1257,2024-03-05,2467.84,Crypto,New Zealand,Refunded,37.17
+1559,1232,2024-12-27,4164.13,Credit Card,Suriname,Completed,80.0
+1560,886,2024-07-28,4143.3,PayPal,Albania,Completed,13.67
+1561,1034,2024-12-11,3782.35,Credit Card,Afghanistan,Refunded,37.31
+1562,1291,2024-06-27,1502.5,Bank Transfer,Rwanda,Refunded,42.84
+1563,776,2024-08-01,2592.51,PayPal,Guernsey,Refunded,13.8
+1564,1000,2024-03-11,23.56,PayPal,Korea,Refunded,93.09
+1565,1399,2024-12-11,3453.02,Credit Card,Samoa,Pending,19.41
+1566,684,2024-10-27,4962.23,Bank Transfer,Guinea-Bissau,Completed,70.34
+1567,523,2024-12-08,3707.49,PayPal,Hungary,Completed,22.21
+1568,1097,2024-11-28,4572.53,PayPal,Jersey,Completed,27.75
+1569,1338,2024-02-22,4185.79,Bank Transfer,Vietnam,Pending,74.05
+1570,573,2024-12-09,841.69,Credit Card,Bolivia,Failed,73.32
+1571,617,2024-04-10,2890.16,Credit Card,Iran,Failed,58.29
+1572,917,2025-01-18,201.25,Crypto,Croatia,Refunded,62.32
+1573,848,2024-12-14,3795.33,Crypto,Saint Barthelemy,Pending,69.83
+1574,817,2025-01-05,3757.13,PayPal,Turkmenistan,Failed,73.4
+1575,663,2024-11-06,1049.86,Credit Card,Netherlands Antilles,Pending,17.1
+1576,711,2024-04-08,2616.59,Crypto,El Salvador,Completed,51.16
+1577,1115,2024-03-30,4761.57,Crypto,Sweden,Pending,68.88
+1578,1325,2024-07-10,4543.08,Credit Card,Oman,Pending,45.48
+1579,606,2024-03-23,476.1,Credit Card,Papua New Guinea,Refunded,5.26
+1580,1491,2024-11-23,4893.81,Credit Card,Greece,Pending,19.14
+1581,1178,2024-05-11,200.78,Crypto,Ukraine,Refunded,47.96
+1582,698,2024-02-09,252.0,Credit Card,Algeria,Completed,90.88
+1583,557,2024-03-09,3153.25,PayPal,Uzbekistan,Completed,70.77
+1584,874,2024-10-04,4436.78,Credit Card,Lao People's Democratic Republic,Refunded,41.66
+1585,842,2024-07-20,4896.09,PayPal,British Virgin Islands,Refunded,55.38
+1586,1043,2024-03-19,4855.59,Credit Card,Macedonia,Pending,58.86
+1587,812,2024-05-01,175.34,Crypto,Guinea,Refunded,1.65
+1588,769,2024-08-24,731.61,Bank Transfer,Lithuania,Completed,59.91
+1589,1454,2024-11-14,814.7,Crypto,Finland,Pending,36.89
+1590,793,2024-10-22,3424.79,Credit Card,Yemen,Pending,2.21
+1591,982,2024-10-20,2235.53,Crypto,Cook Islands,Pending,9.6
+1592,928,2024-04-29,3876.1,PayPal,Uruguay,Refunded,53.28
+1593,688,2024-09-08,4327.81,Bank Transfer,Bahamas,Pending,18.97
+1594,1288,2024-05-08,1821.39,Credit Card,Sao Tome and Principe,Pending,22.03
+1595,961,2024-05-11,847.9,PayPal,Cambodia,Refunded,30.5
+1596,1213,2024-11-06,2055.58,Credit Card,Madagascar,Completed,59.69
+1597,1404,2024-11-18,3246.9,Crypto,Ireland,Refunded,81.73
+1598,648,2025-01-19,1086.77,Credit Card,Congo,Pending,98.42
+1599,1164,2024-09-29,4564.44,Crypto,Chad,Refunded,72.67
+1600,1076,2024-05-22,3138.91,PayPal,Falkland Islands (Malvinas),Completed,64.8
+1601,911,2024-07-30,915.54,Bank Transfer,Chile,Completed,28.69
+1602,512,2024-08-22,615.98,PayPal,Lebanon,Failed,87.89
+1603,638,2024-04-08,3915.16,Credit Card,Bahamas,Pending,84.16
+1604,759,2024-05-25,2577.59,Credit Card,Bangladesh,Completed,79.05
+1605,616,2024-09-26,584.86,PayPal,Hungary,Completed,78.75
+1606,812,2025-01-16,4028.95,Bank Transfer,Czech Republic,Refunded,26.35
+1607,1240,2024-04-22,4621.8,PayPal,Aruba,Completed,97.51
+1608,738,2024-04-02,2310.05,PayPal,Togo,Pending,47.29
+1609,1485,2024-10-30,3863.95,Credit Card,British Indian Ocean Territory (Chagos Archipelago),Refunded,67.4
+1610,1289,2024-08-10,1268.04,Credit Card,Timor-Leste,Pending,2.17
+1611,1033,2024-05-02,2914.82,Bank Transfer,Sao Tome and Principe,Failed,4.4
+1612,1192,2024-04-04,123.93,Crypto,South Georgia and the South Sandwich Islands,Completed,73.49
+1613,764,2024-10-27,976.41,Credit Card,Latvia,Pending,39.2
+1614,1038,2025-01-27,1829.4,PayPal,Trinidad and Tobago,Failed,49.82
+1615,748,2024-04-11,1767.85,Credit Card,Iraq,Refunded,38.94
+1616,1133,2024-12-04,49.87,Crypto,Seychelles,Refunded,94.01
+1617,1445,2025-01-28,4622.5,Credit Card,Gibraltar,Failed,18.13
+1618,887,2024-09-22,1104.24,Credit Card,Timor-Leste,Pending,64.57
+1619,780,2024-05-24,1256.27,Bank Transfer,Guam,Pending,91.44
+1620,857,2024-02-29,3843.33,Credit Card,Norfolk Island,Pending,35.79
+1621,869,2024-07-16,2931.09,Crypto,Christmas Island,Completed,30.79
+1622,779,2024-04-25,4787.13,Crypto,Montserrat,Refunded,26.11
+1623,1190,2024-08-08,1372.87,PayPal,Poland,Failed,88.53
+1624,1101,2024-06-08,2177.48,Bank Transfer,Micronesia,Refunded,27.3
+1625,725,2024-06-28,336.4,Bank Transfer,Aruba,Failed,40.62
+1626,1493,2024-03-25,4328.82,Bank Transfer,Bangladesh,Completed,33.85
+1627,595,2024-12-02,389.1,Crypto,Colombia,Refunded,82.93
+1628,813,2024-06-23,4235.55,PayPal,Papua New Guinea,Refunded,17.46
+1629,926,2024-09-08,2228.23,Crypto,Saint Pierre and Miquelon,Completed,2.59
+1630,1174,2024-03-24,368.96,Crypto,Vietnam,Completed,53.21
+1631,519,2024-07-17,4975.53,Bank Transfer,Israel,Pending,92.59
+1632,1144,2024-09-23,998.47,Credit Card,Mayotte,Completed,64.56
+1633,749,2024-07-20,2859.14,Bank Transfer,Comoros,Completed,62.27
+1634,1223,2024-08-18,4233.99,PayPal,Bolivia,Pending,39.98
+1635,585,2024-04-03,599.96,PayPal,Ukraine,Failed,28.95
+1636,660,2024-12-15,2281.27,Bank Transfer,Fiji,Pending,95.78
+1637,1312,2024-11-21,1977.2,Bank Transfer,Swaziland,Pending,46.23
+1638,1405,2024-05-09,3662.97,Bank Transfer,Turkey,Pending,25.13
+1639,1066,2024-11-26,2188.65,Crypto,Iran,Pending,51.87
+1640,620,2024-04-14,4896.38,Credit Card,Swaziland,Pending,32.03
+1641,844,2024-02-25,312.44,Crypto,Uruguay,Completed,41.96
+1642,1128,2024-05-11,307.64,PayPal,Colombia,Pending,46.38
+1643,1284,2024-11-01,522.71,Crypto,Nauru,Failed,39.45
+1644,1461,2024-06-10,842.87,Bank Transfer,Malawi,Failed,15.02
+1645,1492,2024-08-10,3388.92,Crypto,Djibouti,Completed,82.71
+1646,1271,2025-01-08,1285.38,Bank Transfer,China,Completed,66.09
+1647,1327,2024-12-26,4971.32,PayPal,Switzerland,Refunded,15.18
+1648,636,2024-04-14,493.35,PayPal,Bahrain,Pending,21.17
+1649,592,2024-06-01,2208.75,Bank Transfer,Ghana,Refunded,65.81
+1650,1429,2024-06-11,2441.18,Credit Card,Niger,Pending,52.62
+1651,1452,2024-07-04,2324.58,Credit Card,Dominican Republic,Pending,25.04
+1652,1447,2024-07-31,1848.07,PayPal,Haiti,Refunded,9.67
+1653,1061,2024-09-23,175.89,Bank Transfer,Azerbaijan,Pending,57.79
+1654,615,2024-04-12,3623.13,Credit Card,Mayotte,Completed,47.37
+1655,929,2024-02-25,1262.21,PayPal,Uruguay,Completed,45.25
+1656,1412,2024-11-21,3447.48,Credit Card,Guadeloupe,Completed,38.75
+1657,1372,2024-03-12,2011.0,Credit Card,Svalbard & Jan Mayen Islands,Refunded,84.65
+1658,1098,2024-06-22,2770.76,PayPal,Malawi,Pending,30.2
+1659,562,2024-07-03,2244.92,PayPal,Guam,Refunded,77.13
+1660,792,2024-07-11,69.43,Crypto,United States Minor Outlying Islands,Failed,16.16
+1661,1200,2024-03-25,406.33,Crypto,Ukraine,Failed,83.81
+1662,1094,2024-10-30,3651.49,Crypto,Bahrain,Failed,80.88
+1663,885,2024-04-17,4340.96,Bank Transfer,Jersey,Failed,61.86
+1664,1116,2024-04-01,4808.74,PayPal,Netherlands,Failed,89.58
+1665,1246,2024-08-04,1733.52,PayPal,French Guiana,Failed,10.67
+1666,1111,2024-08-01,904.22,Bank Transfer,Armenia,Failed,90.8
+1667,1195,2024-10-28,4530.34,Crypto,Belgium,Failed,58.66
+1668,958,2024-07-16,2524.42,Credit Card,Saint Pierre and Miquelon,Failed,5.57
+1669,1341,2024-08-26,2774.58,Bank Transfer,Gibraltar,Refunded,40.12
+1670,557,2024-11-10,3981.12,PayPal,Finland,Pending,66.39
+1671,1242,2024-05-27,4171.14,PayPal,Thailand,Completed,69.89
+1672,1022,2024-08-27,3165.96,PayPal,Papua New Guinea,Completed,18.61
+1673,903,2024-05-31,3441.53,Crypto,Saint Barthelemy,Pending,41.07
+1674,894,2024-09-24,1243.72,Credit Card,Tonga,Pending,10.21
+1675,1195,2024-05-19,960.35,Crypto,Zimbabwe,Failed,99.98
+1676,840,2024-06-15,4456.04,Bank Transfer,Costa Rica,Pending,75.93
+1677,868,2024-04-04,2867.36,Credit Card,Dominican Republic,Pending,38.85
+1678,749,2024-08-17,1435.77,PayPal,French Southern Territories,Refunded,85.12
+1679,1429,2024-11-23,3807.89,Crypto,Brunei Darussalam,Completed,4.58
+1680,819,2024-07-17,679.93,Crypto,Martinique,Pending,19.33
+1681,621,2024-11-06,2815.83,Credit Card,Bahamas,Failed,32.55
+1682,515,2024-02-12,1021.39,Bank Transfer,Poland,Failed,45.83
+1683,723,2024-06-30,3727.58,Crypto,Uzbekistan,Pending,0.72
+1684,616,2024-03-07,2739.6,Bank Transfer,Svalbard & Jan Mayen Islands,Refunded,42.85
+1685,648,2024-07-11,2688.31,Credit Card,Guam,Failed,85.29
+1686,580,2024-02-17,2172.95,Credit Card,Uzbekistan,Completed,80.69
+1687,1336,2024-03-04,685.04,Crypto,Saint Pierre and Miquelon,Completed,54.9
+1688,1278,2024-07-16,456.33,Bank Transfer,Martinique,Completed,15.63
+1689,1182,2024-07-10,3989.38,Crypto,Estonia,Completed,37.06
+1690,824,2024-09-15,1442.19,PayPal,Timor-Leste,Failed,20.16
+1691,1274,2024-06-09,4995.0,PayPal,Christmas Island,Refunded,22.86
+1692,1397,2024-08-24,781.49,Bank Transfer,Libyan Arab Jamahiriya,Refunded,21.53
+1693,881,2024-02-04,1893.66,PayPal,Saint Barthelemy,Completed,10.42
+1694,558,2024-08-23,713.62,Credit Card,United Kingdom,Completed,44.17
+1695,1195,2025-01-20,4959.64,Credit Card,Turkmenistan,Pending,77.23
+1696,1434,2024-11-06,3726.24,PayPal,Bangladesh,Failed,62.88
+1697,1469,2024-08-18,320.61,Bank Transfer,Togo,Refunded,58.21
+1698,652,2024-09-09,807.69,PayPal,Ecuador,Pending,69.49
+1699,1241,2024-10-31,3924.04,Crypto,Sudan,Failed,21.6
+1700,632,2024-09-23,2401.55,Credit Card,Kuwait,Pending,88.0
+1701,1129,2024-12-07,4338.4,Crypto,Ukraine,Refunded,3.56
+1702,733,2024-08-09,2104.61,Credit Card,Sri Lanka,Refunded,44.17
+1703,922,2024-04-17,3691.27,Bank Transfer,Guinea,Pending,96.05
+1704,595,2024-08-14,468.99,Credit Card,Brunei Darussalam,Completed,55.59
+1705,1450,2024-10-12,4495.49,Crypto,Azerbaijan,Failed,44.99
+1706,1370,2024-12-18,170.07,Bank Transfer,Cayman Islands,Refunded,71.08
+1707,1215,2024-11-19,4147.77,Credit Card,Bouvet Island (Bouvetoya),Completed,32.54
+1708,848,2024-10-11,4558.24,Bank Transfer,Jersey,Refunded,49.07
+1709,1412,2024-08-26,4026.19,PayPal,Burundi,Failed,19.02
+1710,1474,2024-05-28,1487.29,Crypto,Lithuania,Pending,96.2
+1711,897,2024-07-25,4286.19,Crypto,Christmas Island,Completed,89.71
+1712,636,2024-05-16,1333.29,Bank Transfer,Panama,Refunded,67.73
+1713,570,2024-03-02,2082.2,Credit Card,Costa Rica,Failed,60.56
+1714,1094,2024-10-09,3547.0,Crypto,China,Refunded,41.38
+1715,1042,2025-01-22,3801.98,Bank Transfer,Hungary,Failed,97.38
+1716,924,2024-02-12,2026.84,Crypto,Solomon Islands,Completed,50.61
+1717,962,2024-10-02,1607.13,Bank Transfer,Georgia,Refunded,52.55
+1718,909,2025-01-27,4407.12,Crypto,Oman,Pending,26.46
+1719,1466,2024-12-06,1203.42,PayPal,Hong Kong,Completed,86.43
+1720,1320,2024-07-04,3428.73,Credit Card,Libyan Arab Jamahiriya,Failed,88.91
+1721,550,2024-12-29,806.79,Bank Transfer,Somalia,Refunded,52.92
+1722,831,2025-01-26,1310.21,Credit Card,Egypt,Failed,32.98
+1723,822,2024-03-01,3727.06,PayPal,Bulgaria,Failed,29.95
+1724,1202,2024-06-17,2306.81,PayPal,Belize,Refunded,1.1
+1725,1078,2024-06-13,1071.82,Credit Card,Martinique,Failed,3.2
+1726,1106,2024-06-09,2756.05,Credit Card,Eritrea,Completed,44.37
+1727,586,2024-02-06,291.99,PayPal,Qatar,Completed,92.45
+1728,997,2024-09-23,4751.65,Crypto,Maldives,Failed,80.99
+1729,1402,2024-06-22,4378.16,Crypto,Fiji,Completed,34.11
+1730,1220,2024-09-24,2265.23,Credit Card,Taiwan,Pending,15.67
+1731,1461,2024-05-21,4878.94,Bank Transfer,French Guiana,Completed,88.67
+1732,1160,2024-02-10,945.61,PayPal,Antigua and Barbuda,Refunded,36.57
+1733,665,2024-03-22,2216.0,PayPal,Sierra Leone,Pending,51.72
+1734,918,2024-12-30,278.16,PayPal,Samoa,Pending,26.89
+1735,1198,2024-09-27,4373.86,Crypto,Belarus,Refunded,47.28
+1736,1073,2024-11-12,2964.79,Bank Transfer,Tonga,Completed,85.28
+1737,1297,2024-10-24,4170.15,Crypto,Namibia,Refunded,30.18
+1738,1010,2024-09-30,4515.86,Bank Transfer,Mauritius,Failed,49.63
+1739,1248,2024-07-17,2287.69,Crypto,Turkmenistan,Completed,73.48
+1740,1098,2024-07-13,4894.81,Bank Transfer,Netherlands Antilles,Completed,69.98
+1741,1204,2024-10-26,783.05,Crypto,Saint Lucia,Completed,61.99
+1742,894,2024-11-25,1916.41,Credit Card,Albania,Pending,92.75
+1743,1444,2024-05-23,1564.88,PayPal,Spain,Completed,41.17
+1744,1300,2024-08-01,952.81,Bank Transfer,Brunei Darussalam,Refunded,44.15
+1745,939,2024-07-05,1043.07,Crypto,South Georgia and the South Sandwich Islands,Completed,74.28
+1746,987,2024-07-16,4179.19,PayPal,Poland,Pending,54.71
+1747,1072,2024-06-07,4158.06,PayPal,Mayotte,Completed,97.65
+1748,572,2024-07-09,263.59,Crypto,Palestinian Territory,Failed,65.49
+1749,638,2024-06-16,877.93,PayPal,Fiji,Failed,73.25
+1750,1232,2025-01-12,83.88,Bank Transfer,Faroe Islands,Completed,57.04
+1751,891,2024-10-20,1983.26,Crypto,Latvia,Completed,19.7
+1752,1373,2024-03-16,3299.16,Credit Card,Pitcairn Islands,Failed,26.57
+1753,1247,2024-05-08,3116.18,Crypto,Bulgaria,Failed,10.98
+1754,1259,2024-10-22,5.24,Bank Transfer,Georgia,Completed,8.48
+1755,1016,2024-09-26,2650.4,Crypto,Cuba,Refunded,36.12
+1756,1193,2024-05-25,3521.98,Bank Transfer,Gabon,Refunded,54.82
+1757,664,2024-12-05,4061.06,Crypto,Burundi,Refunded,78.31
+1758,1253,2024-04-15,2812.36,Bank Transfer,Montenegro,Failed,24.67
+1759,756,2024-02-25,3157.02,Crypto,Nigeria,Completed,57.54
+1760,554,2024-09-12,2931.13,Bank Transfer,Congo,Failed,38.78
+1761,1280,2024-07-23,2101.17,Crypto,Cambodia,Pending,36.75
+1762,1019,2024-08-19,97.09,PayPal,Uruguay,Failed,28.86
+1763,1005,2024-05-16,2325.2,Crypto,Uruguay,Refunded,99.44
+1764,914,2025-01-09,2130.65,Crypto,Syrian Arab Republic,Pending,6.79
+1765,962,2024-03-02,3310.04,Crypto,Niue,Completed,7.24
+1766,503,2024-05-12,1483.95,PayPal,Bouvet Island (Bouvetoya),Pending,2.27
+1767,532,2024-11-18,1005.46,Crypto,Philippines,Failed,20.68
+1768,667,2024-04-11,3972.59,Bank Transfer,Mali,Refunded,93.99
+1769,564,2024-03-06,2322.94,PayPal,Zambia,Pending,74.55
+1770,643,2025-01-20,4431.38,Credit Card,Albania,Refunded,88.46
+1771,1286,2024-08-07,3580.65,Credit Card,Kuwait,Completed,80.41
+1772,721,2024-05-14,1144.03,Bank Transfer,Vanuatu,Completed,53.42
+1773,982,2024-08-11,4099.69,Credit Card,Anguilla,Refunded,94.39
+1774,1056,2024-10-06,179.63,Credit Card,Belgium,Pending,2.17
+1775,877,2024-07-08,3190.5,Crypto,Bahrain,Refunded,57.85
+1776,1266,2024-07-04,2322.79,Credit Card,Nepal,Completed,23.11
+1777,603,2024-05-09,1864.68,Bank Transfer,Jersey,Completed,25.37
+1778,1087,2024-03-14,4474.46,PayPal,Afghanistan,Pending,93.42
+1779,810,2025-01-09,3817.47,Crypto,Egypt,Pending,21.95
+1780,1054,2024-08-19,3687.06,PayPal,Bolivia,Completed,47.52
+1781,990,2024-12-05,2650.04,Bank Transfer,Chile,Completed,60.93
+1782,799,2024-05-30,3304.75,Credit Card,Uruguay,Pending,79.41
+1783,535,2024-10-07,2733.22,Bank Transfer,Saint Kitts and Nevis,Pending,73.41
+1784,1338,2024-07-07,4446.3,PayPal,Venezuela,Completed,53.3
+1785,891,2024-08-12,4453.18,Credit Card,Tunisia,Pending,23.58
+1786,605,2024-11-14,2555.2,Crypto,Turkey,Refunded,68.84
+1787,1417,2024-11-26,3853.63,Crypto,Switzerland,Failed,18.89
+1788,673,2024-08-31,2159.25,PayPal,Macao,Completed,69.11
+1789,1183,2024-12-31,458.12,Crypto,Syrian Arab Republic,Refunded,20.91
+1790,525,2024-03-24,4271.01,Credit Card,British Indian Ocean Territory (Chagos Archipelago),Failed,62.31
+1791,1298,2024-10-30,164.39,Crypto,Georgia,Completed,13.44
+1792,825,2024-05-09,546.21,Bank Transfer,Ecuador,Failed,59.6
+1793,1172,2025-01-08,1595.23,PayPal,Namibia,Completed,30.64
+1794,801,2024-12-28,3547.03,PayPal,Kyrgyz Republic,Refunded,79.71
+1795,775,2024-06-25,1476.8,Bank Transfer,Bolivia,Refunded,42.54
+1796,1492,2024-10-24,1479.01,PayPal,Croatia,Pending,93.02
+1797,1139,2024-08-14,3980.07,Bank Transfer,Egypt,Pending,82.23
+1798,798,2025-01-01,3156.15,PayPal,Albania,Failed,5.63
+1799,1291,2025-01-30,4890.88,Bank Transfer,Cambodia,Refunded,71.33
+1800,658,2024-03-01,1944.0,PayPal,Algeria,Pending,78.29
+1801,740,2025-01-20,3152.75,Crypto,Myanmar,Completed,92.81
+1802,846,2024-02-29,1939.13,Credit Card,Bahamas,Failed,42.03
+1803,521,2024-10-29,1513.33,Bank Transfer,United Kingdom,Failed,85.01
+1804,911,2024-06-20,1523.94,PayPal,Bermuda,Pending,12.32
+1805,643,2024-03-14,1612.8,Credit Card,Aruba,Refunded,82.79
+1806,1390,2024-07-17,251.13,Credit Card,Greenland,Pending,80.33
+1807,1070,2024-09-02,225.37,PayPal,Latvia,Failed,90.2
+1808,540,2024-04-30,409.64,Bank Transfer,Thailand,Pending,62.47
+1809,681,2024-03-27,1991.17,Credit Card,Andorra,Completed,9.25
+1810,875,2024-12-18,2310.56,Credit Card,Ireland,Completed,73.88
+1811,1269,2024-03-13,4267.33,Bank Transfer,Brunei Darussalam,Failed,9.49
+1812,1393,2024-02-05,2827.88,Bank Transfer,South Africa,Failed,59.55
+1813,670,2024-04-24,818.51,PayPal,South Georgia and the South Sandwich Islands,Failed,99.54
+1814,1385,2024-08-20,4850.57,Crypto,Croatia,Failed,8.75
+1815,1224,2024-02-13,2910.26,Crypto,Nicaragua,Pending,79.39
+1816,1029,2024-06-26,2441.21,Credit Card,Palestinian Territory,Pending,57.31
+1817,807,2025-01-03,639.18,PayPal,Thailand,Refunded,87.06
+1818,661,2025-01-07,1088.98,Bank Transfer,Venezuela,Completed,97.06
+1819,1019,2024-12-13,3509.03,Bank Transfer,Bulgaria,Failed,36.81
+1820,540,2025-01-31,3039.64,Bank Transfer,Seychelles,Failed,66.67
+1821,1166,2024-05-29,4195.84,Credit Card,Tanzania,Pending,99.91
+1822,901,2024-02-08,3146.52,Credit Card,Cambodia,Pending,44.8
+1823,1113,2024-04-04,1685.81,Credit Card,Romania,Completed,40.06
+1824,980,2024-02-18,669.12,Crypto,Djibouti,Pending,9.36
+1825,915,2025-02-02,3157.62,PayPal,Falkland Islands (Malvinas),Pending,7.36
+1826,1167,2025-01-12,2558.18,Credit Card,India,Pending,81.23
+1827,1068,2024-10-18,2970.57,Crypto,Macedonia,Completed,9.66
+1828,629,2024-12-21,3707.48,Crypto,New Zealand,Completed,6.02
+1829,1141,2024-11-14,966.65,Credit Card,United Kingdom,Refunded,62.69
+1830,973,2024-07-14,4985.33,Crypto,Kenya,Failed,42.56
+1831,1062,2024-08-16,2470.77,Bank Transfer,Micronesia,Completed,92.66
+1832,1284,2024-11-22,1817.27,Crypto,Korea,Pending,72.17
+1833,992,2024-11-12,4306.64,PayPal,Wallis and Futuna,Refunded,73.02
+1834,795,2024-06-22,65.35,PayPal,Mongolia,Pending,90.38
+1835,815,2024-06-19,384.35,Crypto,South Georgia and the South Sandwich Islands,Pending,48.85
+1836,1451,2024-09-24,4207.85,Crypto,Madagascar,Pending,20.09
+1837,749,2024-09-19,824.38,PayPal,China,Pending,60.7
+1838,1080,2024-08-24,2551.84,Credit Card,Heard Island and McDonald Islands,Refunded,57.43
+1839,1084,2024-05-03,1311.97,Credit Card,Saint Lucia,Failed,26.64
+1840,1480,2025-01-05,4364.83,PayPal,Mozambique,Completed,26.2
+1841,1262,2024-06-28,594.05,Bank Transfer,Belize,Completed,62.68
+1842,1207,2024-04-30,40.03,PayPal,Saudi Arabia,Pending,45.32
+1843,646,2024-09-16,3425.03,Crypto,Turks and Caicos Islands,Pending,4.31
+1844,971,2025-01-30,3737.69,Crypto,Belize,Refunded,15.41
+1845,512,2025-02-01,4531.75,Crypto,Niger,Failed,90.39
+1846,939,2024-11-22,3996.96,Crypto,Ukraine,Refunded,36.5
+1847,1370,2024-09-03,882.24,PayPal,Martinique,Completed,31.31
+1848,1414,2024-10-10,4548.35,Bank Transfer,Central African Republic,Failed,35.29
+1849,1131,2024-09-27,3176.37,PayPal,United Arab Emirates,Refunded,9.15
+1850,1353,2025-01-29,3341.61,Bank Transfer,Brunei Darussalam,Failed,40.54
+1851,632,2024-12-26,4460.91,PayPal,Netherlands,Pending,81.04
+1852,974,2024-10-09,436.82,Credit Card,Qatar,Refunded,53.57
+1853,547,2024-09-03,3757.59,Crypto,Philippines,Failed,82.26
+1854,1371,2024-07-21,1941.49,PayPal,Falkland Islands (Malvinas),Failed,46.98
+1855,820,2024-07-09,1626.91,Credit Card,British Virgin Islands,Refunded,95.41
+1856,1434,2024-10-03,379.69,Crypto,Belize,Failed,1.93
+1857,1492,2024-04-12,4361.05,Bank Transfer,Saint Barthelemy,Failed,82.85
+1858,1382,2024-05-28,974.93,PayPal,Cyprus,Refunded,29.7
+1859,846,2025-01-29,2224.75,PayPal,Uganda,Failed,77.52
+1860,523,2024-12-29,70.82,Crypto,Bhutan,Refunded,99.71
+1861,615,2024-03-19,4123.56,Bank Transfer,Cocos (Keeling) Islands,Refunded,86.94
+1862,848,2024-06-30,157.82,Crypto,Uganda,Refunded,42.14
+1863,866,2024-07-13,992.47,PayPal,Lebanon,Refunded,18.34
+1864,1022,2024-05-07,301.95,Credit Card,Italy,Refunded,63.04
+1865,1156,2024-09-07,1003.81,Bank Transfer,Haiti,Completed,41.8
+1866,1157,2024-02-27,2768.68,Bank Transfer,Namibia,Pending,43.92
+1867,896,2024-02-18,806.42,Crypto,Ireland,Failed,27.13
+1868,689,2024-09-30,3344.21,PayPal,American Samoa,Failed,46.9
+1869,1125,2024-07-31,4989.41,Credit Card,Sweden,Failed,61.85
+1870,1042,2024-08-22,2888.04,Bank Transfer,Bosnia and Herzegovina,Failed,0.1
+1871,1368,2024-03-20,4980.54,Credit Card,Philippines,Completed,54.78
+1872,517,2024-09-17,4029.01,PayPal,Mayotte,Completed,23.52
+1873,1413,2024-02-19,714.88,PayPal,Jersey,Failed,95.68
+1874,896,2024-08-31,3146.77,PayPal,Micronesia,Refunded,27.89
+1875,685,2024-09-03,4860.38,PayPal,Antarctica (the territory South of 60 deg S),Completed,53.28
+1876,1445,2024-07-05,4888.71,Crypto,Bahrain,Pending,29.65
+1877,1468,2024-07-25,2049.58,Credit Card,Togo,Refunded,28.87
+1878,1192,2024-12-13,4313.02,Crypto,Georgia,Failed,91.34
+1879,1155,2024-05-18,2448.3,Bank Transfer,France,Completed,84.87
+1880,1219,2024-12-03,4235.38,PayPal,British Indian Ocean Territory (Chagos Archipelago),Refunded,12.4
+1881,786,2024-07-21,4786.84,Credit Card,Senegal,Refunded,7.63
+1882,1432,2024-12-17,4766.97,Crypto,Palau,Pending,29.58
+1883,893,2024-07-24,2819.0,Bank Transfer,Martinique,Failed,7.2
+1884,1294,2025-01-29,4312.24,Bank Transfer,Jersey,Failed,8.82
+1885,878,2024-03-27,287.96,PayPal,Saint Martin,Failed,2.66
+1886,1204,2024-04-25,1746.8,PayPal,Micronesia,Failed,15.13
+1887,674,2024-06-20,3583.82,PayPal,Philippines,Completed,4.37
+1888,629,2024-10-12,1361.23,Credit Card,Slovenia,Pending,4.32
+1889,1052,2024-09-04,1968.1,Bank Transfer,Bahamas,Pending,31.48
+1890,557,2024-02-25,3159.72,Bank Transfer,Morocco,Failed,79.63
+1891,714,2024-10-18,297.1,Bank Transfer,Djibouti,Completed,8.23
+1892,895,2024-08-14,137.41,PayPal,Egypt,Refunded,28.98
+1893,1021,2024-05-12,1655.25,PayPal,Dominican Republic,Refunded,50.29
+1894,1040,2024-12-29,1640.47,Crypto,Belize,Refunded,45.28
+1895,516,2024-12-24,4394.61,PayPal,Vietnam,Pending,28.2
+1896,868,2024-08-13,82.95,Bank Transfer,Norway,Completed,72.34
+1897,1359,2024-07-19,1814.64,Crypto,Hungary,Pending,10.15
+1898,1463,2024-07-03,498.98,Crypto,Algeria,Refunded,20.02
+1899,839,2024-04-22,3748.27,Credit Card,Argentina,Pending,59.73
+1900,1002,2024-10-04,579.83,Bank Transfer,Bangladesh,Pending,16.13
+1901,541,2024-07-12,832.36,PayPal,Solomon Islands,Pending,11.68
+1902,1447,2024-05-28,1668.85,Credit Card,Cote d'Ivoire,Completed,14.94
+1903,1197,2024-11-17,3656.29,Credit Card,Equatorial Guinea,Pending,29.28
+1904,830,2024-08-23,4059.9,Crypto,Thailand,Failed,42.6
+1905,887,2024-06-03,2806.97,Credit Card,Chile,Failed,45.02
+1906,1026,2024-05-15,4539.12,Bank Transfer,Reunion,Completed,94.49
+1907,764,2024-10-30,2315.32,Credit Card,Lesotho,Completed,20.75
+1908,1031,2024-12-10,427.9,Crypto,Pitcairn Islands,Completed,48.52
+1909,1401,2024-06-27,4313.94,Bank Transfer,French Guiana,Refunded,14.35
+1910,789,2024-08-12,1809.88,PayPal,Italy,Refunded,44.96
+1911,1216,2024-10-18,514.41,Credit Card,Lithuania,Failed,42.47
+1912,1094,2024-05-11,1214.29,Credit Card,Cameroon,Pending,7.28
+1913,1234,2024-04-24,2476.92,Bank Transfer,Qatar,Completed,84.93
+1914,766,2024-07-10,1059.07,PayPal,Wallis and Futuna,Pending,16.56
+1915,997,2024-02-24,289.28,Credit Card,Hong Kong,Completed,79.62
+1916,645,2024-08-29,4232.02,Bank Transfer,Saint Barthelemy,Refunded,5.84
+1917,673,2024-09-07,2784.44,Bank Transfer,Comoros,Refunded,83.44
+1918,1378,2024-02-04,478.36,Bank Transfer,New Caledonia,Failed,83.7
+1919,561,2024-12-06,238.2,PayPal,Israel,Failed,82.98
+1920,1231,2024-12-22,4890.87,PayPal,Guinea-Bissau,Completed,92.31
+1921,1130,2024-11-30,1980.07,Credit Card,Armenia,Completed,9.91
+1922,1342,2024-11-12,2280.53,Crypto,Timor-Leste,Refunded,35.93
+1923,993,2024-08-18,4751.75,Crypto,Slovenia,Completed,62.47
+1924,522,2025-01-05,2117.89,Bank Transfer,Papua New Guinea,Pending,99.21
+1925,835,2024-06-28,2924.18,Crypto,Jordan,Refunded,41.83
+1926,593,2024-04-21,3231.58,PayPal,Trinidad and Tobago,Failed,88.91
+1927,948,2024-07-23,4285.51,Crypto,American Samoa,Completed,20.02
+1928,562,2025-01-07,606.45,Bank Transfer,Norfolk Island,Completed,81.78
+1929,1057,2024-06-27,1468.28,Credit Card,Czech Republic,Failed,68.22
+1930,1110,2024-07-30,2691.86,Bank Transfer,Palestinian Territory,Failed,88.04
+1931,1205,2024-07-08,2153.97,PayPal,Fiji,Failed,30.7
+1932,710,2024-09-23,4767.11,PayPal,Uzbekistan,Failed,69.44
+1933,1226,2024-10-11,246.47,Credit Card,Puerto Rico,Failed,39.73
+1934,1110,2024-04-24,3198.19,PayPal,Korea,Refunded,99.33
+1935,1363,2024-09-08,672.27,Crypto,Mauritania,Pending,36.76
+1936,1293,2024-09-20,3194.78,Bank Transfer,Guam,Pending,17.85
+1937,1021,2025-01-04,4191.09,Crypto,Wallis and Futuna,Completed,69.26
+1938,1385,2024-02-06,1044.02,PayPal,Gibraltar,Completed,73.12
+1939,961,2024-03-03,494.83,PayPal,Solomon Islands,Refunded,9.43
+1940,567,2024-05-25,1810.51,Bank Transfer,Cyprus,Refunded,24.18
+1941,1211,2024-04-10,3616.82,Bank Transfer,Turks and Caicos Islands,Completed,3.3
+1942,981,2024-12-14,3265.01,Bank Transfer,Guatemala,Pending,89.19
+1943,1156,2024-07-18,509.51,Bank Transfer,Armenia,Completed,72.18
+1944,673,2024-12-24,2538.99,Crypto,Sudan,Pending,96.13
+1945,510,2025-01-30,886.41,Crypto,Cape Verde,Pending,9.68
+1946,944,2024-10-18,4001.9,Bank Transfer,Uganda,Failed,0.58
+1947,678,2024-07-16,3909.45,Crypto,British Virgin Islands,Completed,54.57
+1948,1434,2024-09-25,2974.85,Credit Card,Qatar,Refunded,2.66
+1949,1078,2024-08-14,1148.75,Bank Transfer,Serbia,Failed,11.97
+1950,1230,2024-02-20,2049.54,Credit Card,Saint Vincent and the Grenadines,Pending,12.64
+1951,849,2024-03-31,3992.46,Crypto,Andorra,Refunded,63.56
+1952,815,2025-01-20,2031.07,Crypto,Myanmar,Failed,8.86
+1953,1229,2024-02-03,2108.39,PayPal,French Guiana,Pending,12.2
+1954,881,2024-03-16,2575.8,PayPal,Jordan,Refunded,83.17
+1955,574,2024-05-06,288.93,Crypto,Mauritania,Failed,17.71
+1956,1004,2024-05-15,257.31,PayPal,Australia,Completed,13.15
+1957,1494,2024-10-05,551.0,Bank Transfer,Paraguay,Refunded,63.06
+1958,771,2024-03-13,3230.36,Credit Card,Guinea,Completed,80.04
+1959,927,2024-09-06,192.14,Bank Transfer,Kyrgyz Republic,Pending,62.42
+1960,1064,2024-02-20,1422.4,Crypto,Nauru,Completed,14.56
+1961,648,2024-02-08,4889.88,Bank Transfer,Bermuda,Pending,74.7
+1962,555,2024-03-19,1680.11,PayPal,Argentina,Refunded,14.94
+1963,1273,2024-05-18,3730.2,Bank Transfer,Mauritania,Failed,63.17
+1964,1053,2024-10-12,579.63,PayPal,Tonga,Pending,22.46
+1965,945,2024-05-16,1272.99,Credit Card,Latvia,Pending,63.48
+1966,1172,2024-10-16,4047.08,Bank Transfer,Nepal,Failed,46.13
+1967,1033,2025-01-14,916.92,Credit Card,Portugal,Completed,14.79
+1968,884,2024-10-11,1120.36,Credit Card,Paraguay,Failed,96.32
+1969,1157,2025-01-30,4979.66,Bank Transfer,Anguilla,Completed,8.55
+1970,1297,2024-05-20,516.3,Credit Card,New Zealand,Refunded,49.99
+1971,641,2024-10-15,1154.45,Bank Transfer,Cape Verde,Refunded,77.05
+1972,713,2024-04-25,4466.55,Bank Transfer,Spain,Failed,22.09
+1973,661,2024-12-09,3192.49,PayPal,United Kingdom,Failed,21.0
+1974,914,2024-09-08,1291.49,Crypto,Antigua and Barbuda,Failed,87.62
+1975,1009,2025-02-02,248.28,Credit Card,British Indian Ocean Territory (Chagos Archipelago),Pending,72.29
+1976,501,2025-01-21,1601.61,Bank Transfer,Greece,Refunded,71.81
+1977,1210,2024-12-28,2434.08,PayPal,Somalia,Failed,91.96
+1978,539,2024-04-25,413.49,PayPal,Syrian Arab Republic,Failed,20.26
+1979,1004,2024-02-26,3374.1,Bank Transfer,Bulgaria,Failed,65.23
+1980,600,2024-12-02,3741.05,Credit Card,Switzerland,Completed,65.24
+1981,1103,2024-10-14,3570.63,Crypto,Somalia,Completed,65.56
+1982,1212,2024-07-24,1574.1,Credit Card,Cameroon,Failed,68.54
+1983,613,2024-08-03,1139.11,Bank Transfer,Ukraine,Completed,89.1
+1984,700,2024-07-29,4684.72,PayPal,Iceland,Refunded,35.54
+1985,1342,2024-09-20,1722.36,Crypto,Canada,Refunded,36.15
+1986,526,2024-09-01,1045.09,PayPal,Czech Republic,Refunded,28.53
+1987,1310,2025-01-05,1684.02,PayPal,Dominican Republic,Failed,96.94
+1988,840,2024-11-16,898.18,Crypto,Greenland,Failed,19.7
+1989,783,2024-02-06,3666.27,Crypto,Tonga,Pending,95.04
+1990,880,2025-01-14,2626.76,Bank Transfer,Cape Verde,Failed,26.33
+1991,1216,2024-10-16,1105.9,Crypto,Papua New Guinea,Refunded,71.71
+1992,1328,2025-01-19,3557.65,Bank Transfer,Tokelau,Completed,54.38
+1993,1240,2024-05-28,774.82,Bank Transfer,Argentina,Refunded,90.9
+1994,1446,2024-11-04,4619.8,Bank Transfer,Australia,Pending,78.13
+1995,741,2024-04-14,1325.07,Credit Card,Brunei Darussalam,Failed,57.76
+1996,1391,2024-02-09,334.44,PayPal,Kyrgyz Republic,Pending,18.32
+1997,923,2024-09-23,3634.85,Crypto,Greenland,Pending,73.38
+1998,717,2024-04-02,3345.93,Crypto,Korea,Refunded,44.88
+1999,769,2024-06-16,1050.17,Credit Card,Ukraine,Failed,24.43
+2000,1065,2024-10-09,2589.04,Bank Transfer,Cayman Islands,Pending,27.99
